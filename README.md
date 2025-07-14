@@ -15,5 +15,5 @@ CrackVision Pro is a user-friendly tool for analyzing structural cracks in image
 
 1. **Clone this repository**:
 ```bash
-git clone https://github.com/yourusername/crackvision-pro.git
+git clone https://github.com/shazz0/crackvision-pro.git
 cd crackvision-pro
